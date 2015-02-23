@@ -17,4 +17,7 @@ h1 {background:#999;}
 p {
 	padding:1em 2em;
 	margin:1em 2em;
+	font-family: 'Arimo', sans-serif;
+	color:#666;
+	font-size:18px;
 }
