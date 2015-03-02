@@ -9,7 +9,7 @@ body {
 	font-size:22px;
 }
 
-h1 {background:#FF394D;}
+h1 {background:url('images/topback.jpg')}
 
 #slogan {
 	text-align:center;
