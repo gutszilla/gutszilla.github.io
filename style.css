@@ -1,16 +1,20 @@
-*{margin:0;padding:2;box-sizing:border-box;}
+*{margin:0;padding:0;box-sizing:border-box;}
 body {
 	background:url('images/softbackground.jpg');
 	background-repeat:no-repeat;
 	background-size:cover;
-	font-family: 'Fredoka One', cursi;
 	font-family:'Arimo', sans-serif;
-	color: #FFD0D3;
-	font-size:22px;
+	color:#333;
+	font-size:18px;
 
 }
-
-h1 {background:url('images/darkblue.jpg')}
+header {
+	background-color:rgb(25,17,60);
+}
+h1 {
+	color: #FFD0D3;
+	font-family: 'Fredoka One', cursive;
+}
 
 #slogan {
 	text-align:center;
@@ -19,7 +23,4 @@ h1 {background:url('images/darkblue.jpg')}
 p {
 	padding:2em 4em;
 	margin:2em 4em;
-	font-family: 'Arimo', sans-serif;
-	color:#333;
-	font-size:18px;
 }
