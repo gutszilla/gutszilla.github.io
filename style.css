@@ -26,3 +26,7 @@ ul {
 	text-align:center;
 	font-family:georgia, serif;
 }
+.wrapper {
+	margin:0 auto;
+	width:1200px;
+}
